@@ -1,4 +1,4 @@
-# 🌐 Ecrox Chain
+# 🌐 Ecrox Chain - Zero Gas Fee Blockchain
 
 Ecrox Chain is a next-generation, zero gas fee blockchain designed for scalability, speed, and real-world adoption.  
 Built with a Delegated Proof of Stake (DPoS) consensus mechanism, Ecrox Chain empowers developers, enterprises, and users with seamless decentralized solutions.
